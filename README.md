@@ -1,5 +1,7 @@
 # **DATA ANALYSIS ON AVIATION ACCIDENTS (1919-2023)**
 
+![alt text](<plane crash.avif>)
+
 # PROJECT OVERVIEW
 
 Using data cleaning, imputation, analysis, and visualization to generate insights for a business stakeholder.
