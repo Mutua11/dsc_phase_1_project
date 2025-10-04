@@ -38,14 +38,15 @@ Key columns:
 
   ## VISUALIZATIONS
 
-  ![alt text](image-2.png)
+  ![alt text](Images/image-2.png)
    United States Airforce (USAF) and United States Army Airforce (USAAF) had the highest number of accidents since the United States actively Participated in the World War II that took place between 1939 and 1945. 
 
-  ![alt text](image-3.png)
+  ![alt text](Images/image-1.png)
    Douglas C-47A (DC-3) recorded the highest number of accidents since it was one of the most important aircraft of the World War II therefore often used.
 
-  ![alt text](image-4.png)
-  The high accident rate between 1940 and 1945 was due to the World War II.
+  ![alt text](Images/image-4.png)
+  The high accident rate between 1940 and 1945 was due to the World War II
+  
 
 # CONCLUSION
 
